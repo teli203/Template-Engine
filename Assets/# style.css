@@ -1,0 +1,11 @@
+#table table-bordered{
+    width: 50px;
+    height: 50px;
+ }
+ body{
+    background-color: lightgray;
+ }
+ .container{
+    background-color: white;
+    margin-top: 40px;
+ }
